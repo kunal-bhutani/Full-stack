@@ -1,0 +1,3 @@
+hello form 2.2 native module file1.js !
+
+code check 123;

@@ -1,0 +1,18 @@
+-> in it basic functionality is written which is used in java script
+.) === equality check
+.) == equality check without considering the data type of variable
+.) !== not equal to operator
+.)&& and operator
+.)|| or operator
+.) we add css file in the header portion and js file just before </body> body closing tag 
+explantion > because we need to load css as page load we need no waiting in that or if we put in last and if  there is a error in js file css will also not load
+.) the function which takes function as a input/parameter is known as high order function it is supported by many languages but not by all 
+
+            ****************************
+.) in cdm alt + left right use to navigate
+.) ctrl+u to clear line and write a new one
+
+
+***********
+.) npm.js for pre written tool in js which we can install and import
+.) 
